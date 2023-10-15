@@ -1,9 +1,9 @@
 <h1 align="center">Hello 🌎, I'm Ihlasul Mufti Faqih</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihlasulmufti&label=Profile%20views&color=0e75b6&style=flat" alt="ihlasulmufti" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihlasulmufti&theme=radical&row=2&column=4" alt="ihlasulmufti" /></a>
-</p>
+- 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
+
+- 🐱‍👓 I’m currently learning **Machine Learning and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,13 +26,18 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=IhlasulMufti&show=reviews,prs_merged_percentage&show_icons=true&theme=radical&card_width=50px&custom_title=My+Github+Stats&include_all_commits=true" />
+      src="https://github-readme-stats.vercel.app/api?username=IhlasulMufti&show=reviews,prs_merged_percentage&hide=prs&show_icons=true&card_width=50px&custom_title=My+Github+Stats&include_all_commits=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IhlasulMufti&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihlasulmufti" alt="ihlasulmufti" /></a>
  </p>
 
- <p align="center">
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihlasulmufti&theme=radical" alt="ihlasulmufti" /></a>
- </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihlasulmufti&row=1" alt="ihlasulmufti" /></a>
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihlasulmufti&repo=machine-learning" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihlasulmufti&repo=pengantar-pemrograman" />
+</a>
