@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🌎, I'm Ihlasul Mufti Faqih</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihlasulmufti&label=Profile%20views&color=0e75b6&style=flat" alt="ihlasulmufti" /> </p>
 
-<img align="right" width="350px" src="https://raw.githubusercontent.com/IhlasulMufti/assets/main/-%20Find%20%26%20Share%20on%20GIPHY.gif">
+<img align="right" width="325px" src="https://raw.githubusercontent.com/IhlasulMufti/assets/main/-%20Find%20%26%20Share%20on%20GIPHY.gif">
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
