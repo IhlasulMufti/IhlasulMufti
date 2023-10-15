@@ -25,10 +25,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" 
+    <img height=200 align="left" 
       src="https://github-readme-stats.vercel.app/api?username=IhlasulMufti&show=reviews,prs_merged_percentage&hide=prs&show_icons=true&card_width=50px&custom_title=My+Github+Stats&include_all_commits=true" />
   </a>
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihlasulmufti" alt="ihlasulmufti" /></a>
+  <a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ihlasulmufti" alt="ihlasulmufti" /></a>
  </p>
 
 <p align="center">
