@@ -32,5 +32,5 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihlasulmufti&row=1" alt="ihlasulmufti" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=84 src="https://github-profile-trophy.vercel.app/?username=ihlasulmufti&row=1" alt="ihlasulmufti" /></a>
 </p>
