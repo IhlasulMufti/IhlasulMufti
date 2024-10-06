@@ -3,9 +3,9 @@
 
 <img align="right" width="325px" src="https://raw.githubusercontent.com/IhlasulMufti/assets/main/-%20Find%20%26%20Share%20on%20GIPHY.gif">
 
-- 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
+- 👨‍💻 I'm a fresh graduate from Information System at Universitas Hasanuddin.
 
-- 🐱‍👓 I’m currently learning **Machine Learning and AI**
+- 🐱‍👓 I’m currently learning as SQA Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
