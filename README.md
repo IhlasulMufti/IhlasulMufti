@@ -2,7 +2,32 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&section=header&reversal=false&text=Ihlasul%20Mufti%20Faqih%20Spaces&fontSize=40&fontColor=321&fontAlign=50&fontAlignY=42&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-<table align="center">
+<div align="center">
+  <a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+  </a>
+  &nbsp;
+  <a>
+    <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpuZWwwenFyNWJvbjR5NTBqdDF1NHY4ZHlmb21sYjZtM24zdXlqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif"  />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ihlasul-mufti-faqih/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+  
+  <a href="https://www.instagram.com/ihlasulmufti_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IhlasulMufti" alt="Vizualizações" />
+</div>
+
+
+<!-- <table align="center">
   <tr>
     <td align="center" valign="top">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
@@ -26,7 +51,7 @@
   </div>
     </td>
   </tr>
-</table>
+</table> -->
 
 ___
 
