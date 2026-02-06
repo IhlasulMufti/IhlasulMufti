@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&section=header&reversal=false&text=Ihlasul%20Mufti%20Faqih%20Spaces&fontSize=40&fontColor=321&fontAlign=50&fontAlignY=42&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&section=header&reversal=false&text=WELL(COME)🌱%20.%20.%20.&fontSize=40&fontColor=321&fontAlign=50&fontAlignY=42&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 <div align="center">
@@ -54,8 +54,6 @@
 </table> -->
 
 ___
-
-<h2 align="left">Welcome🌱 . . .</h2>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
